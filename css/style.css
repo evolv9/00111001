@@ -65,5 +65,15 @@ h3 {
 	font-size: 24px;
 	line-height: 24px;
 	font-family: 'Merriweather';
-	
+}
+
+ul {
+	overflow: hidden;
+}
+
+li {
+	margin-left: 0;
+	list-style: none;
+}
+
 /* ===== header ===== */
