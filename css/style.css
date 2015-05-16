@@ -59,4 +59,11 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
 }
 
+h3 {
+	color: #3da2b4;
+	text-shadow: 0 -1px 0 #231914;
+	font-size: 24px;
+	line-height: 24px;
+	font-family: 'Merriweather';
+	
 /* ===== header ===== */
