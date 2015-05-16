@@ -47,5 +47,16 @@ a:hover, a:active {
 
 };
 
+p {
+	font-size: 12px;
+	line-height: 18px;
+	font-size: Verdana, helvetica, arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: myriad-pro, helvetica, arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: normal;
+}
 
 /* ===== header ===== */
