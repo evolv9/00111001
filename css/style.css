@@ -90,3 +90,16 @@ li {
 }
 
 /* ===== header ===== */
+
+#header {
+    height: 233px;          /* set size equal to banner image */
+    position: relative;     /* allow absolute positioning relative to this space */
+                        
+}
+
+#midBanner {
+    background-color: #000;
+    height: 90px;
+    padding-top: 14px;
+    margin-bottom: 40px;	
+}
