@@ -76,6 +76,11 @@ li {
 	list-style: none;
 }
 
+ol {
+	margin-left: ;
+	list-style: ;
+}
+
 .rounded {
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
